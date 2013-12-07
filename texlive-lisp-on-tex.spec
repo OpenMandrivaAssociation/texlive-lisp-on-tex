@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-lisp-on-tex
 Version:	1.0
-Release:	2
+Release:	3
 Summary:	Execute LISP code in a LaTeX document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lisp-on-tex
