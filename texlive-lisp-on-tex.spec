@@ -1,6 +1,6 @@
 Name:		texlive-lisp-on-tex
 Version:	38722
-Release:	1
+Release:	2
 Summary:	Execute LISP code in a LaTeX document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lisp-on-tex
