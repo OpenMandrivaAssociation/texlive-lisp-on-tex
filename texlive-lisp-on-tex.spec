@@ -3,7 +3,7 @@ Version:	38722
 Release:	2
 Summary:	Execute LISP code in a LaTeX document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lisp-on-tex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lisp-on-tex
 License:	BSD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lisp-on-tex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lisp-on-tex.doc.r%{version}.tar.xz
