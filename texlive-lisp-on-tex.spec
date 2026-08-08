@@ -1,9 +1,9 @@
 %global tl_name lisp-on-tex
-%global tl_revision 73165
+%global tl_revision 79842
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	2.1
+Version:	2.2
 Release:	%{tl_revision}.1
 Summary:	Execute LISP code in a LaTeX document
 Group:		Publishing
